@@ -44,9 +44,8 @@ Using cross-validated predictive modelling with separate training and test datas
 **Relevant publications:**
 
 - Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026). *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.* Frontiers in Psychiatry.  
-
-- Berwian, IM., Hitchcock, P., Pisupati, S., Schoen, G., & Niv, Y. (2025). *Using computational models of learning to advance cognitive behavioral therapy.* Communications Psychology, 3(72).  
-  https://doi.org/10.1038/s44271-025-00251-4  
+  
+- Berwian, IM., Hitchcock, P., Pisupati, S., Schoen, G., & Niv, Y. (2025).    *Using computational models of learning to advance cognitive behavioral therapy.*    Communications Psychology.    [[DOI]](https://doi.org/10.1038/s44271-025-00251-4)
 
 - Reiter, AM., Atiya, NA., Berwian, IM., & Huys, QJM. (2021). *Neuro-cognitive processes as mediators of psychological treatment effects.* Current Opinion in Behavioral Sciences, 38, 103–109.  
   https://doi.org/10.1016/j.cobeha.2021.02.007  
