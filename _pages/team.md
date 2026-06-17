@@ -34,7 +34,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/placeholder.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/emma.jpg" width="180">
 
   <div>
     <p>
@@ -70,7 +70,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/placeholder.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/Mangat.jpg" width="180">
 
   <div>
     <p>
@@ -84,11 +84,11 @@ layout: splash
 
 ## Affiliated Members
 
-### Jialing Ding (Research Assistant)
+### Jialing Ding (Research Assistant at Princeton University, affiliated lab memeber)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/placeholder.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/Ding.jpg" width="180">
 
   <div>
     <p>
@@ -104,11 +104,20 @@ layout: splash
 
 ---
 
-### Dr Jamie Chiu (PhD Student)
+### Dr Jamie Chiu (PhD Student at Princeton University, affiliated lab member)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/placeholder.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/Chiu.jpg" width="180">
 
   <div>
     <p>
+   Jamie wants to create effective, personalized non-pharmaceutical treatments for depression and anxiety. As a therapist, she was frustrated by how little is known about which treatments work best for whom — and that question now drives her research. She is pursuing a PhD in Psychology and Neuroscience, with a certificate in Statistics and Machine Learning, at Princeton University, where she models readiness for change to help match people with the interventions most likely to help them. 
+    </p>
+
+    <p>
+   Jamie is also the founder of The Brightly Project, which builds digital tools that connect at-risk teens with caring adults at their high schools. As a first-generation student, she is passionate about opening doors for girls and others traditionally underrepresented in academic spaces. In her spare time, Jamie enjoys hiking, reading, and learning to use the vintage camera she inherited from her uncle.
+    </p>
+  </div>
+
+</div>
