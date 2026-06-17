@@ -10,7 +10,7 @@ layout: splash
 
 ### Dr Isabel Berwian (PI)
 
-![Isabel Berwian](/images/berwian.jpg
+![Isabel Berwian]({{ site.baseurl }}/images/berwian.jpg
 
 Isabel Berwian is Associate Professor of Interventional Methods in Clinical Psychology at University College London. Her research focuses on understanding how interventions for depression and anxiety work and how they can be improved, combining computational modelling, experimental approaches, clinical research, and neuroimaging.
 
