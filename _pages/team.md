@@ -84,7 +84,7 @@ layout: splash
 
 ## Affiliated Members
 
-### Jialing Ding (Research Assistant at Princeton University, affiliated lab memeber)
+### Jialing Ding (Research Assistant at Princeton University)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -104,7 +104,7 @@ layout: splash
 
 ---
 
-### Dr Jamie Chiu (PhD Student at Princeton University, affiliated lab member)
+### Dr Jamie Chiu (PhD Student at Princeton University)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
