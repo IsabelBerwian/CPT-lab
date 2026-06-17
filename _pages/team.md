@@ -12,7 +12,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/berwian.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/berwian.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
 
   <div>
     <p>
@@ -34,7 +34,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/leger.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/leger.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
 
   <div>
     <p>
@@ -54,7 +54,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/placeholder.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/placeholder.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
 
   <div>
     <p>
@@ -70,7 +70,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/mangat.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/mangat.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
 
   <div>
     <p>
@@ -88,7 +88,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/ding.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/ding.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
 
   <div>
     <p>
@@ -108,7 +108,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/chiu.jpeg" width="180">
+  <img src="{{ site.baseurl }}/images/chiu.jpeg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
 
   <div>
     <p>
