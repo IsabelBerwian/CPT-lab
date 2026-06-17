@@ -46,20 +46,17 @@ In a completed clinical trial, participants completed questionnaires and behavio
 Using cross-validated predictive modelling with separate training and test datasets, we aim to develop models that predict symptom change and differential response to CR versus BA. The goal is to identify task-derived variables that can guide intervention selection at the individual level.
 
 **Relevant publications:**
-
-- Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026).  
-  *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.*  
-  Frontiers in Psychiatry.
+- Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026).    *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.*    Frontiers in Psychiatry.    [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1774560/full)
 
 - Berwian, IM., Hitchcock, P., Pisupati, S., Schoen, G., & Niv, Y. (2025).  
   *Using computational models of learning to advance cognitive behavioral therapy.*  
   Communications Psychology, 3(72).  
-  [[DOI]](https://doi.org/10.1038/s44271-025-00251-4)
+  [[Paper]](https://doi.org/10.1038/s44271-025-00251-4)
 
 - Reiter, AM., Atiya, NA., Berwian, IM., & Huys, QJM. (2021).  
   *Neuro-cognitive processes as mediators of psychological treatment effects.*  
   Current Opinion in Behavioral Sciences, 38, 103–109.  
-  [[DOI]](https://doi.org/10.1016/j.cobeha.2021.02.007)
+  [[Paper]](https://doi.org/10.1016/j.cobeha.2021.02.007)
 
 ---
 
@@ -76,12 +73,12 @@ We examine whether task-derived parameters predict treatment outcomes, how these
 - Brakemeier, E.-L., Klein, J.P., Zimmermann, J., …, Berwian, IM., et al. (2026).  
   *Efficacy, moderators and mediators of cognitive behavioural analysis system of psychotherapy (CBASP) versus behavioural activation (BA) in persistent depression.*  
   BMJ Open.  
-  [[DOI]](https://doi.org/10.1136/bmjopen-2025-107051)
+  [[Paper]](https://doi.org/10.1136/bmjopen-2025-107051)
 
 - Berwian, IM., Wenzel, JG., Collins, AGE., Seifritz, E., Stephan, KE., Walter, H., & Huys, QJM. (2020).  
   *Computational mechanisms of effort and reward decisions in depression and their relationship to relapse after antidepressant discontinuation.*  
   JAMA Psychiatry, 77(5), 513–522.  
-  [[DOI]](https://doi.org/10.1001/jamapsychiatry.2019.4971)
+  [[Paper]](https://doi.org/10.1001/jamapsychiatry.2019.4971)
 
 ---
 
@@ -98,9 +95,9 @@ The broader goal is to establish a formal bridge between psychodynamic theory an
 - Dulburg, Z., Dubey, R., Berwian, IM., & Cohen, J. (2023).  
   *Having multiple selves helps learning agents explore and adapt in complex changing worlds.*  
   PNAS, 120(28).  
-  [[DOI]](https://doi.org/10.1073/pnas.2221180120)
+  [[Paper]](https://doi.org/10.1073/pnas.2221180120)
 
 - Story, GW., Smith, R., Moutoussis, M., Berwian, IM., Nolte, T., Bilek, E., & Dolan, RJ. (2023).  
   *A social inference model of idealization and devaluation.*  
   Psychological Review, 131(3), 749–780.  
-  [[DOI]](https://doi.org/10.1037/rev0000430)
+  [[Paper]](https://doi.org/10.1037/rev0000430)
