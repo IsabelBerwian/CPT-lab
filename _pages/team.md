@@ -108,7 +108,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/chiu.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/chiu.jpeg" width="180">
 
   <div>
     <p>
