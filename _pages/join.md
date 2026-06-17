@@ -27,9 +27,9 @@ Potential applicants are encouraged to get in touch early to discuss possible pr
 
 ---
 
-### MSc and Undergraduate Projects
+### DClinPsy, MSc and Undergraduate Projects
 
-We regularly supervise MSc and undergraduate research projects related to computational psychiatry, learning and memory, and psychological interventions. 
+We are happy to supervise DClinPsy, MSc and undergraduate research projects related to computational psychiatry, learning and memory, and psychological interventions. 
 
 Please get in touch if you are interested in conducting your dissertation in the lab.
 
@@ -64,4 +64,4 @@ We provide:
 
 Please email a short description of your interests, CV, and (if applicable) transcripts to:
 
-**[your email here]**
+**[i.berwian@ucl.ac.uk]**
