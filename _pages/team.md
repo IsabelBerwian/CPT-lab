@@ -49,12 +49,9 @@ In the lab, Jialing is working on a longitudinal clinical study to identify beha
 ---
 
 ### Dr Jamie Chiu (PhD Student)
+Jamie wants to create effective, personalized non-pharmaceutical treatments for depression and anxiety. As a therapist, she was frustrated by how little is known about which treatments work best for whom — and that question now drives her research. She is pursuing a PhD in Psychology and Neuroscience, with a certificate in Statistics and Machine Learning, at Princeton University, where she models readiness for change to help match people with the interventions most likely to help them. 
 
-Jamie Chiu aims to develop effective, personalized non-pharmaceutical treatments for depression and anxiety. Motivated by clinical experience as a therapist, the research focuses on understanding which treatments work best for whom.
-
-Jamie is pursuing a PhD in Psychology and Neuroscience at Princeton University, with additional training in Statistics and Machine Learning. The research focuses on modelling readiness for change to improve matching individuals to effective interventions.
-
-Jamie is also the founder of The Brightly Project, which develops digital tools to connect at-risk students with supportive adults in school settings. Outside of research, Jamie enjoys hiking, reading, and photography.
+Jamie is also the founder of The Brightly Project, which builds digital tools that connect at-risk teens with caring adults at their high schools. As a first-generation student, she is passionate about opening doors for girls and others traditionally underrepresented in academic spaces. In her spare time, Jamie enjoys hiking, reading, and learning to use the vintage camera she inherited from her uncle.
 
 ---
 
