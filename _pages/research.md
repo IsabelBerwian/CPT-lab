@@ -6,7 +6,6 @@ layout: splash
 
 # Research
 
-Describe the research themes of your lab here.
-
+Computational Psychotherapy
 You can structure this into themes, projects, or approaches.
 ``
