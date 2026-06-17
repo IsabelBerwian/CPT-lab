@@ -1,3 +1,8 @@
+---
+permalink: /
+layout: splash
+---
+
 # Computational Psychotherapy Lab
 
 How do interventions for affective disorders lead to change, and how can we determine which intervention a specific individual will benefit from?
