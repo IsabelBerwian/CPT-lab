@@ -34,7 +34,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/emma.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/leger.jpg" width="180">
 
   <div>
     <p>
@@ -70,7 +70,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/Mangat.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/mangat.jpg" width="180">
 
   <div>
     <p>
@@ -88,7 +88,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/Ding.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/ding.jpg" width="180">
 
   <div>
     <p>
@@ -108,7 +108,7 @@ layout: splash
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <img src="{{ site.baseurl }}/images/Chiu.jpg" width="180">
+  <img src="{{ site.baseurl }}/images/chiu.jpg" width="180">
 
   <div>
     <p>
