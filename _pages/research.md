@@ -23,11 +23,15 @@ This work is funded through a Wellcome Trust Mental Health Award and is conducte
 
 **Relevant publications:**
 
-- Berwian, IM., Ren, Y., Pisupti, S., Ding, J., Moon, S., Chiu, J., Chandrasekhar, D., & Niv, Y. (under review). *Selective maintenance of aversive memories as a mechanism of spontaneous recovery of fear.* PsyArXiv.  
-  https://doi.org/10.31234/osf.io/2kdtf_v1  
+- Berwian, IM., Ren, Y., Pisupti, S., Ding, J., Moon, S., Chiu, J., Chandrasekhar, D., & Niv, Y. (under review).  
+  *Selective maintenance of aversive memories as a mechanism of spontaneous recovery of fear.*  
+  PsyArXiv.  
+  [[DOI]](https://doi.org/10.31234/osf.io/2kdtf_v1)
 
-- Berwian, IM., Pisupati, S., Chiu, J., Ren, Y., & Niv, Y. (2024). *Selective maintenance of negative memories as a mechanism of spontaneous recovery of fear after extinction.* Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).  
-  https://escholarship.org/uc/item/3mj8q8kx  
+- Berwian, IM., Pisupati, S., Chiu, J., Ren, Y., & Niv, Y. (2024).  
+  *Selective maintenance of negative memories as a mechanism of spontaneous recovery of fear after extinction.*  
+  Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46).  
+  [[Link]](https://escholarship.org/uc/item/3mj8q8kx)
 
 ---
 
@@ -43,12 +47,19 @@ Using cross-validated predictive modelling with separate training and test datas
 
 **Relevant publications:**
 
-- Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026). *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.* Frontiers in Psychiatry.  
-  
-- Berwian, IM., Hitchcock, P., Pisupati, S., Schoen, G., & Niv, Y. (2025).    *Using computational models of learning to advance cognitive behavioral therapy.*    Communications Psychology.    [[DOI]](https://doi.org/10.1038/s44271-025-00251-4)
+- Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026).  
+  *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.*  
+  Frontiers in Psychiatry.
 
-- Reiter, AM., Atiya, NA., Berwian, IM., & Huys, QJM. (2021). *Neuro-cognitive processes as mediators of psychological treatment effects.* Current Opinion in Behavioral Sciences, 38, 103–109.  
-  https://doi.org/10.1016/j.cobeha.2021.02.007  
+- Berwian, IM., Hitchcock, P., Pisupati, S., Schoen, G., & Niv, Y. (2025).  
+  *Using computational models of learning to advance cognitive behavioral therapy.*  
+  Communications Psychology, 3(72).  
+  [[DOI]](https://doi.org/10.1038/s44271-025-00251-4)
+
+- Reiter, AM., Atiya, NA., Berwian, IM., & Huys, QJM. (2021).  
+  *Neuro-cognitive processes as mediators of psychological treatment effects.*  
+  Current Opinion in Behavioral Sciences, 38, 103–109.  
+  [[DOI]](https://doi.org/10.1016/j.cobeha.2021.02.007)
 
 ---
 
@@ -62,11 +73,15 @@ We examine whether task-derived parameters predict treatment outcomes, how these
 
 **Relevant publications:**
 
-- Brakemeier, E.-L., Klein, J.P., Zimmermann, J., …, Berwian, IM., et al. (2026). *Efficacy, moderators and mediators of CBASP versus behavioural activation in persistent depression.* BMJ Open.  
-  https://doi.org/10.1136/bmjopen-2025-107051  
+- Brakemeier, E.-L., Klein, J.P., Zimmermann, J., …, Berwian, IM., et al. (2026).  
+  *Efficacy, moderators and mediators of cognitive behavioural analysis system of psychotherapy (CBASP) versus behavioural activation (BA) in persistent depression.*  
+  BMJ Open.  
+  [[DOI]](https://doi.org/10.1136/bmjopen-2025-107051)
 
-- Berwian, IM., Wenzel, JG., Collins, AGE., Seifritz, E., Stephan, KE., Walter, H., & Huys, QJM. (2020). *Computational mechanisms of effort and reward decisions in depression and their relationship to relapse.* JAMA Psychiatry, 77(5), 513–522.  
-  https://doi.org/10.1001/jamapsychiatry.2019.4971  
+- Berwian, IM., Wenzel, JG., Collins, AGE., Seifritz, E., Stephan, KE., Walter, H., & Huys, QJM. (2020).  
+  *Computational mechanisms of effort and reward decisions in depression and their relationship to relapse after antidepressant discontinuation.*  
+  JAMA Psychiatry, 77(5), 513–522.  
+  [[DOI]](https://doi.org/10.1001/jamapsychiatry.2019.4971)
 
 ---
 
@@ -80,8 +95,12 @@ The broader goal is to establish a formal bridge between psychodynamic theory an
 
 **Relevant publications:**
 
-- Dulburg, Z., Dubey, R., Berwian, IM., & Cohen, J. (2023). *Having multiple selves helps learning agents explore and adapt in complex environments.* PNAS, 120(28).  
-  https://doi.org/10.1073/pnas.2221180120  
+- Dulburg, Z., Dubey, R., Berwian, IM., & Cohen, J. (2023).  
+  *Having multiple selves helps learning agents explore and adapt in complex changing worlds.*  
+  PNAS, 120(28).  
+  [[DOI]](https://doi.org/10.1073/pnas.2221180120)
 
-- Story, GW., Smith, R., Moutoussis, M., Berwian, IM., Nolte, T., Bilek, E., & Dolan, RJ. (2023). *A social inference model of idealization and devaluation.* Psychological Review, 131(3), 749–780.  
-  https://doi.org/10.1037/rev0000430  
+- Story, GW., Smith, R., Moutoussis, M., Berwian, IM., Nolte, T., Bilek, E., & Dolan, RJ. (2023).  
+  *A social inference model of idealization and devaluation.*  
+  Psychological Review, 131(3), 749–780.  
+  [[DOI]](https://doi.org/10.1037/rev0000430)
