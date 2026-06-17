@@ -29,6 +29,12 @@ We are interested in working with motivated students and researchers across disc
 
 ---
 
+## Affiliations
+
+The Computational Psychotherapy Lab is based within the Department of Clinical, Educational and Health Psychology at University College London and is affiliated with the Max Planck UCL Centre for Computational Psychiatry and Ageing Research
+
+---
+
 ## Contact
 
 Computational Psychotherapy Lab  
