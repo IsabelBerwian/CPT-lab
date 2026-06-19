@@ -17,7 +17,7 @@ To test these hypotheses, we develop behavioural tasks and computational models 
 
 Our work spans the full pipeline from task and model development to clinical trials. In the long term, we aim to establish a mechanistic, learning-based framework for understanding how interventions produce lasting change and how they can be optimally combined and sequenced.
 
-👉 Learn more on the Research page.
+Learn more on the Research page.
 
 ---
 
@@ -25,21 +25,24 @@ Our work spans the full pipeline from task and model development to clinical tri
 
 We are interested in working with motivated students and researchers across disciplines.
 
-👉 See the Join page for current opportunities.
+See the Join page for current opportunities.
 
 ---
 
 ## Affiliations
 
-The Computational Psychotherapy Lab is based within the Department of Clinical, Educational and Health Psychology at University College London and is affiliated with the Max Planck UCL Centre for Computational Psychiatry and Ageing Research
+The Computational Psychotherapy Lab is based within the Research Department of Clinical, Educational and Health Psychology at University College London and is affiliated with the Max Planck UCL Centre for Computational Psychiatry and Ageing Research.
 
 ---
 
 ## Contact
 
-Computational Psychotherapy Lab  
-Department of Clinical, Educational and Health Psychology  
-UCL  
+i.berwian [@] ucl.ac.uk
 
-[i.berwian@ucl.ac.uk]
+University College London
+Research Department of Clinical, Educational and Health Psychology 
+1-19 Torrington Place
+London
+WC1E 7HB
+
 
