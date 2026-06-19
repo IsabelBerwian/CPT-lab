@@ -131,3 +131,18 @@ a:hover {
 .toggle-darkmode {
   display: none !important;
 }
+
+/* Hide dark mode toggle (all variants used by theme) */
+.dark-toggle,
+.dark-mode-toggle,
+.toggle-dark,
+.toggle-dark-mode,
+.js-dark-toggle {
+  display: none !important;
+}
+
+/* Restore heading color */
+.page__content h1 {
+  color: var(--color-primary);
+}
+
