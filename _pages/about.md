@@ -23,9 +23,14 @@ Learn more on the Research page.
 
 ## Join the Lab
 
-We are interested in working with motivated students and researchers across disciplines.
+<div class="section-soft">
 
-See the Join page for current opportunities.
+**Interested in working with us?**  
+<a href="/join/" class="btn">Join our lab</a>
+
+</div>
+
+
 
 ---
 
