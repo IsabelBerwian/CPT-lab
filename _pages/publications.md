@@ -119,4 +119,3 @@ layout: splash
   *Rückfallvorhersage nach Absetzen von Antidepressiva.*  
   Info Neurologie und Psychiatrie, 14(2), 16–19.
 
-``
