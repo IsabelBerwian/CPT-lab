@@ -64,4 +64,4 @@ We provide:
 
 Please email a short description of your interests, CV, and (if applicable) transcripts to:
 
-**[i.berwian@ucl.ac.uk]**
+**i.berwian [@] ucl.ac.uk**
