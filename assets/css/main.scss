@@ -121,3 +121,36 @@ a:hover {
 .greedy-nav .visible-links > li:last-child {
   display: none !important;
 }
+
+/* =========================================
+   DARK RED LINKS (make sure all links match)
+   ========================================= */
+
+a {
+  color: var(--color-primary);
+}
+
+a:hover {
+  color: #5f141f;
+}
+
+
+/* =========================================
+   DARK RED BUTTON
+   ========================================= */
+
+.btn {
+  background-color: var(--color-primary);
+  color: #ffffff !important;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.btn:hover {
+  background-color: #5f141f;
+  color: #ffffff !important;
+  text-decoration: none;
+}
