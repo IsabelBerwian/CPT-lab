@@ -1,22 +1,16 @@
----
----
 
-/*
- */ * This file controls what is imported from /_sass
+---
+---
 
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -25,24 +19,18 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
 
 
-/* =========================================================
-   COLOR SYSTEM
-   ========================================================= */
-
+/* COLORS */
 :root {
   --color-primary: #8B1E2D;
   --color-accent: #EEE6E7;
@@ -51,113 +39,48 @@
   --color-border: #E5E5E5;
 }
 
-
-/* =========================================================
-   GLOBAL STYLING
-   ========================================================= */
-
+/* BODY */
 body {
   color: var(--color-text);
   background-color: var(--color-bg);
 }
 
-/* Links */
+/* LINKS */
 a {
   color: var(--color-primary);
-  text-decoration: none;
 }
 
-/* Headings */
-h1 { color: var(--color-text); }
-h2 { color: var(--color-primary); }
+a:hover {
+  color: #5f141f;
+}
 
-
-/* =========================================================
-   TYPOGRAPHY + CONTENT CENTERING
-   ========================================================= */
-
+/* CONTENT WIDTH */
 .page__content {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.page__content p {
-  line-height: 1.65;
-  margin-bottom: 1.4em;
-}
-
-
-/* =========================================================
-   ✅ HEADER RESTRUCTURE (SAFE + KEY CHANGE)
-   ========================================================= */
-
-/* Stack title and nav vertically */
+/* HEADER (SAFE ONLY) */
 .masthead__inner-wrap {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   max-width: 900px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Title styling */
+/* TITLE CENTER ONLY (no layout changes) */
 .site-title {
+  text-align: center;
   display: block;
-  text-align: center;
-  font-size: 1.6rem;
   font-weight: 600;
-  color: var(--color-text) !important;
-  margin-bottom: 0.4rem;
 }
 
-/* Navigation wrapper */
-.masthead__menu {
-  margin-top: 0.3rem;
-}
-
-/* Keep greedy nav working but center it */
-.greedy-nav {
-  text-align: center;
-}
-
-/* Navigation links */
+/* NAV COLOR ONLY */
 .greedy-nav a {
   color: var(--color-primary) !important;
-  margin: 0 10px;
 }
 
-.greedy-nav a:hover {
-  text-decoration: underline;
-}
-
-
-/* ✅ Hide dark mode icon */
+/* REMOVE DARK MODE ICON */
 .dark-mode-toggle {
   display: none !important;
 }
-
-
-/* =========================================================
-   SOFT BACKGROUND SECTIONS
-   ========================================================= */
-
-.section-soft {
-  background-color: var(--color-accent);
-  padding: 2rem;
-  border-radius: 8px;
-}
-
-
-/* =========================================================
-   TEAM PAGE
-   ========================================================= */
-
-.author__avatar img,
-.archive__item-teaser img {
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
-  border-radius: 50%;
-}
-
