@@ -112,25 +112,23 @@ hr {
 
 
 /* =========================================================
-   HEADER / NAVIGATION (SAFE VERSION)
+   HEADER (ULTRA SAFE VERSION)
    ========================================================= */
 
-/* Center header container */
+/* Center header container ONLY */
 .masthead__inner-wrap {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
 }
 
 /* Title styling */
 .site-title {
   display: block;
+  text-align: center;
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--color-text) !important;
-  margin-bottom: 0.5rem;
-  text-align: center;
   text-decoration: none;
 }
 
@@ -139,10 +137,9 @@ hr {
   text-decoration: none;
 }
 
-/* Navigation style ONLY (no layout overrides!) */
+/* Navigation COLOR ONLY (no layout manipulation) */
 .greedy-nav a {
   color: var(--color-primary) !important;
-  margin: 0 10px;
 }
 
 .greedy-nav a:hover {
@@ -150,7 +147,7 @@ hr {
   text-decoration: underline;
 }
 
-/* Hide dark mode icon safely */
+/* Hide dark mode icon */
 .dark-mode-toggle {
   display: none !important;
 }
@@ -193,4 +190,3 @@ hr {
   font-size: 0.9rem;
   color: #555;
 }
-``
