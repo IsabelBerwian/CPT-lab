@@ -124,3 +124,13 @@ hr {
 .btn:hover {
   background-color: #5f141f;
 }
+
+/* Top navigation links */
+.masthead__menu-item a {
+  color: var(--color-primary);
+}
+
+.masthead__menu-item a:hover {
+  color: #5f141f;
+  text-decoration: underline;
+}
