@@ -23,12 +23,10 @@ Learn more on the Research page.
 
 ## Join the Lab
 
-<div class="section-soft">
 
-**Interested in working with us?**  
+**Interested in working with us?**
+
 <a href="/join/" class="btn">Join our lab</a>
-
-</div>
 
 
 
