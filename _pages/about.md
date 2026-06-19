@@ -40,9 +40,13 @@ The Computational Psychotherapy Lab is based within the Research Department of C
 i.berwian [@] ucl.ac.uk
 
 University College London
+
 Research Department of Clinical, Educational and Health Psychology 
+
 1-19 Torrington Place
+
 London
+
 WC1E 7HB
 
 
