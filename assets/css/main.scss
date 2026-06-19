@@ -48,3 +48,40 @@
   --color-primary: #8B1E2D;
   --color-accent: #EEE6E7;
   --color-text: #222222;
+  --color-bg: #FFFFFF;
+  --color-border: #E5E5E5;
+}
+
+
+/* =========================================================
+   GLOBAL STYLING
+   ========================================================= */
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg);
+}
+
+/* Links */
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5f141f;
+  text-decoration: underline;
+}
+
+/* Headings */
+h1 { color: var(--color-text); }
+h2 { color: var(--color-primary); }
+h3, h4, h5, h6 { color: var(--color-text); }
+
+/* Divider */
+hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+}
+
+
