@@ -3,11 +3,7 @@
 
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -45,7 +41,7 @@
 
 
 /* =========================================================
-   CUSTOM LAB COLOR THEME (clean + minimal)
+   COLOR SYSTEM
    ========================================================= */
 
 :root {
@@ -58,7 +54,7 @@
 
 
 /* =========================================================
-   GLOBAL STYLING OVERRIDES
+   GLOBAL STYLING
    ========================================================= */
 
 body {
@@ -80,59 +76,26 @@ a:hover {
 
 
 /* Headings */
-h1 {
-  color: var(--color-text);
-}
-
-h2 {
-  color: var(--color-primary);
-}
-
-h3, h4, h5, h6 {
-  color: var(--color-text);
-}
+h1 { color: var(--color-text); }
+h2 { color: var(--color-primary); }
+h3, h4, h5, h6 { color: var(--color-text); }
 
 
-/* Horizontal lines */
+/* Divider */
 hr {
   border: none;
   border-top: 1px solid var(--color-border);
 }
 
 
-/* Soft section blocks (use manually in pages) */
-.section-soft {
-  background-color: var(--color-accent);
-  padding: 2rem;
-  border-radius: 8px;
-}
+/* =========================================================
+   TYPOGRAPHY + SPACING
+   ========================================================= */
 
-
-/* Optional: cleaner content spacing */
-.page__content p {
-  margin-bottom: 1.2em;
-}
-
-
-/* Optional: buttons (if used) */
-.btn {
-  background-color: var(--color-primary);
-  color: #ffffff;
-  border: none;
-}
-
-.btn:hover {
-  background-color: #5f141f;
-}
-
-/* Top navigation links */
-.masthead__menu-item a {
-  color: var(--color-primary);
-}
-
-.masthead__menu-item a:hover {
-  color: #5f141f;
-  text-decoration: underline;
+.page__content {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .page__content p {
@@ -150,33 +113,35 @@ hr {
   margin-bottom: 0.6rem;
 }
 
-.page__content {
-  max-width: 800px;
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+.masthead__menu-item a {
+  color: var(--color-primary);
 }
 
-.page {
-  display: flex;
-  justify-content: center;
+.masthead__menu-item a:hover {
+  color: #5f141f;
+  text-decoration: underline;
 }
 
-#main {
-  max-width: 1100px;
-  margin: 0 auto;
+
+/* =========================================================
+   SOFT SECTIONS
+   ========================================================= */
+
+.section-soft {
+  background-color: var(--color-accent);
+  padding: 2rem;
+  border-radius: 8px;
 }
 
-.page {
-  margin-left: auto;
-  margin-right: auto;
-}
 
-.sidebar {
-  float: none;
-  width: 100%;
-}
-
-.page__inner-wrap {
-  width: 100%;
-}
+/* =========================================================
+   TEAM PAGE
+   ========================================================= */
 
 .author__avatar img,
 .archive__item-teaser img {
@@ -188,9 +153,6 @@ hr {
 
 .archive__item {
   text-align: center;
-}
-
-.archive__item {
   margin-bottom: 2rem;
 }
 
@@ -204,26 +166,34 @@ hr {
   color: #555;
 }
 
-/* Force full layout centering */
-#main {
-  max-width: 1200px;
-  margin: 0 auto !important;
-  float: none !important;
+
+/* =========================================================
+   ✅ FINAL CENTERING FIX (clean + correct)
+   ========================================================= */
+
+/* Center the entire page container */
+.initial-content {
+  max-width: 1100px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
-/* Remove sidebar offset */
+/* Remove sidebar completely (important) */
 .sidebar {
   display: none;
 }
 
-/* Let content take full centered width */
+/* Remove left-shift from layout system */
 .page__inner-wrap {
   width: 100% !important;
   float: none !important;
 }
 
-/* Ensure page content centers properly */
-.page {
+/* Ensure main layout blocks are centered */
+.layout--single .page,
+.layout--archive .archive {
   margin-left: auto !important;
   margin-right: auto !important;
 }
