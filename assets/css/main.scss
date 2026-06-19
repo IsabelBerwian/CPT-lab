@@ -204,3 +204,26 @@ hr {
   color: #555;
 }
 
+/* Force full layout centering */
+#main {
+  max-width: 1200px;
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+/* Remove sidebar offset */
+.sidebar {
+  display: none;
+}
+
+/* Let content take full centered width */
+.page__inner-wrap {
+  width: 100% !important;
+  float: none !important;
+}
+
+/* Ensure page content centers properly */
+.page {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
