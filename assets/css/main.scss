@@ -98,3 +98,36 @@ a:hover {
   width: 100%;
   text-align: center;
 }
+
+/* =========================================
+   STACK HEADER VISUALLY (SAFE METHOD)
+   ========================================= */
+
+/* Move navigation below title */
+.masthead__menu {
+  width: 100%;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+/* Force nav to new line */
+.greedy-nav {
+  display: block;
+}
+
+/* Center nav items */
+.greedy-nav .visible-links {
+  display: inline-block;
+}
+
+/* Keep spacing nice */
+.greedy-nav a {
+  margin: 0 12px;
+}
+
+/* remove dark mode icon completely */
+.dark-toggle,
+.dark-mode-toggle,
+.toggle-darkmode {
+  display: none !important;
+}
