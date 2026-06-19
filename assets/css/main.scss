@@ -1,4 +1,3 @@
-
 ---
 ---
 
@@ -30,22 +29,29 @@
 ;
 
 
-/* COLORS */
+/* =========================================================
+   COLOR SYSTEM
+   ========================================================= */
+
 :root {
   --color-primary: #8B1E2D;
   --color-accent: #EEE6E7;
   --color-text: #222222;
   --color-bg: #FFFFFF;
-  --color-border: #E5E5E5;
 }
 
-/* BODY */
+
+/* =========================================================
+   GLOBAL STYLE
+   ========================================================= */
+
 body {
   color: var(--color-text);
   background-color: var(--color-bg);
 }
 
-/* LINKS */
+
+/* Links */
 a {
   color: var(--color-primary);
 }
@@ -54,33 +60,34 @@ a:hover {
   color: #5f141f;
 }
 
-/* CONTENT WIDTH */
+
+/* =========================================================
+   CONTENT WIDTH (KEEP THIS)
+   ========================================================= */
+
 .page__content {
   max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
-/* HEADER (SAFE ONLY) */
-.masthead__inner-wrap {
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
-/* TITLE CENTER ONLY (no layout changes) */
-.site-title {
-  text-align: center;
-  display: block;
-  font-weight: 600;
-}
+/* =========================================================
+   NAVIGATION COLOR ONLY (SAFE)
+   ========================================================= */
 
-/* NAV COLOR ONLY */
 .greedy-nav a {
   color: var(--color-primary) !important;
 }
 
-/* REMOVE DARK MODE ICON */
+.greedy-nav a:hover {
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   REMOVE DARK MODE ICON (SAFE)
+   ========================================================= */
+
 .dark-mode-toggle {
   display: none !important;
 }
