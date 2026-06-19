@@ -62,7 +62,7 @@ a:hover {
 
 
 /* =========================================================
-   CONTENT WIDTH (KEEP THIS)
+   CONTENT WIDTH
    ========================================================= */
 
 .page__content {
@@ -70,86 +70,54 @@ a:hover {
   margin: 0 auto;
 }
 
+/* Heading color (your main headline fix) */
+.page__content h1 {
+  color: var(--color-primary);
+}
+
 
 /* =========================================================
-   NAVIGATION COLOR ONLY (SAFE)
+   NAVIGATION
    ========================================================= */
 
+/* Red navigation links */
 .greedy-nav a {
   color: var(--color-primary) !important;
+  margin: 0 12px;
 }
 
 .greedy-nav a:hover {
   text-decoration: underline;
 }
 
-
-/* =========================================================
-   REMOVE DARK MODE ICON (SAFE)
-   ========================================================= */
-
-.dark-mode-toggle {
-  display: none !important;
-}
-
-/* Center site title only */
+/* Center site title */
 .site-title {
   display: block;
   width: 100%;
   text-align: center;
 }
 
-/* =========================================
-   STACK HEADER VISUALLY (SAFE METHOD)
-   ========================================= */
-
-/* Move navigation below title */
+/* Stack header visually */
 .masthead__menu {
   width: 100%;
   text-align: center;
   margin-top: 0.5rem;
 }
 
-/* Force nav to new line */
 .greedy-nav {
   display: block;
 }
 
-/* Center nav items */
 .greedy-nav .visible-links {
   display: inline-block;
 }
 
-/* Keep spacing nice */
-.greedy-nav a {
-  margin: 0 12px;
-}
 
-/* remove dark mode icon completely */
-.dark-toggle,
-.dark-mode-toggle,
-.toggle-darkmode {
+/* =========================================================
+   ✅ FINAL ICON FIX (SAFE)
+   ========================================================= */
+
+/* Remove ONLY the last nav item (the icon) */
+.greedy-nav .visible-links > li:last-child {
   display: none !important;
 }
-
-/* Hide dark mode toggle (all variants used by theme) */
-.dark-toggle,
-.dark-mode-toggle,
-.toggle-dark,
-.toggle-dark-mode,
-.js-dark-toggle {
-  display: none !important;
-}
-
-/* Restore heading color */
-.page__content h1 {
-  color: var(--color-primary);
-}
-
-/* Hide the icon safely without touching layout */
-.greedy-nav .icon,
-.greedy-nav svg {
-  display: none !important;
-}
-
-
