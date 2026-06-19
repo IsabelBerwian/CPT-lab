@@ -146,22 +146,10 @@ a:hover {
   color: var(--color-primary);
 }
 
-/* =========================================
-   FORCE REMOVE DARK MODE / SETTINGS ICON
-   ========================================= */
-
-/* Hide the icon container in the nav */
-.greedy-nav button,
-.greedy-nav .nav__toggle,
-.greedy-nav .greedy-nav__toggle,
-.greedy-nav .greedy-nav__button {
+/* Hide the icon safely without touching layout */
+.greedy-nav .icon,
+.greedy-nav svg {
   display: none !important;
 }
 
-/* Hide any right-side nav controls */
-.masthead__menu-item--lg,
-.masthead__menu-item--right {
-  display: none !important;
-}
-``
 
