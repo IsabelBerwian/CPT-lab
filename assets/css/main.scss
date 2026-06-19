@@ -2,8 +2,7 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
- */
+ */ * This file controls what is imported from /_sass
 
 @import
     "vendor/breakpoint/breakpoint",
@@ -68,25 +67,13 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #5f141f;
-  text-decoration: underline;
-}
-
 /* Headings */
 h1 { color: var(--color-text); }
 h2 { color: var(--color-primary); }
-h3, h4, h5, h6 { color: var(--color-text); }
-
-/* Divider */
-hr {
-  border: none;
-  border-top: 1px solid var(--color-border);
-}
 
 
 /* =========================================================
-   TYPOGRAPHY + SPACING
+   TYPOGRAPHY + CONTENT CENTERING
    ========================================================= */
 
 .page__content {
@@ -96,65 +83,63 @@ hr {
 }
 
 .page__content p {
-  margin-bottom: 1.4em;
   line-height: 1.65;
-}
-
-.page__content h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-.page__content h3 {
-  margin-top: 1.8rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 1.4em;
 }
 
 
 /* =========================================================
-   HEADER (ULTRA SAFE VERSION)
+   ✅ HEADER RESTRUCTURE (SAFE + KEY CHANGE)
    ========================================================= */
 
-/* Center header container ONLY */
+/* Stack title and nav vertically */
 .masthead__inner-wrap {
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 /* Title styling */
 .site-title {
   display: block;
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 600;
   color: var(--color-text) !important;
-  text-decoration: none;
+  margin-bottom: 0.4rem;
 }
 
-.site-title:hover {
-  color: var(--color-text);
-  text-decoration: none;
+/* Navigation wrapper */
+.masthead__menu {
+  margin-top: 0.3rem;
 }
 
-/* Navigation COLOR ONLY (no layout manipulation) */
+/* Keep greedy nav working but center it */
+.greedy-nav {
+  text-align: center;
+}
+
+/* Navigation links */
 .greedy-nav a {
   color: var(--color-primary) !important;
+  margin: 0 10px;
 }
 
 .greedy-nav a:hover {
-  color: #5f141f !important;
   text-decoration: underline;
 }
 
-/* Hide dark mode icon */
+
+/* ✅ Hide dark mode icon */
 .dark-mode-toggle {
   display: none !important;
 }
 
 
 /* =========================================================
-   SOFT SECTIONS
+   SOFT BACKGROUND SECTIONS
    ========================================================= */
 
 .section-soft {
@@ -176,17 +161,3 @@ hr {
   border-radius: 50%;
 }
 
-.archive__item {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-.archive__item-title {
-  font-weight: 600;
-  margin-top: 0.8rem;
-}
-
-.archive__item-excerpt {
-  font-size: 0.9rem;
-  color: #555;
-}
