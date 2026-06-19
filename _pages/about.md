@@ -41,5 +41,5 @@ Computational Psychotherapy Lab
 Department of Clinical, Educational and Health Psychology  
 UCL  
 
-[Your email here]
-``
+[i.berwian@ucl.ac.uk]
+
