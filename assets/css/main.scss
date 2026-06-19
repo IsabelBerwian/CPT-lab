@@ -178,3 +178,29 @@ hr {
   width: 100%;
 }
 
+.author__avatar img,
+.archive__item-teaser img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.archive__item {
+  text-align: center;
+}
+
+.archive__item {
+  margin-bottom: 2rem;
+}
+
+.archive__item-title {
+  font-weight: 600;
+  margin-top: 0.8rem;
+}
+
+.archive__item-excerpt {
+  font-size: 0.9rem;
+  color: #555;
+}
+
