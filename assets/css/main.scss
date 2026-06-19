@@ -91,3 +91,10 @@ a:hover {
 .dark-mode-toggle {
   display: none !important;
 }
+
+/* Center site title only */
+.site-title {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
