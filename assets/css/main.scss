@@ -2,7 +2,40 @@
 ---
 
 /*
- * This file controls what is imported "vendor/font-awesome/solid", * This file controls what is imported from /_sass
+ * This file controls what is imported from /_sass
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
 
@@ -53,7 +86,7 @@ hr {
 
 
 /* =========================================================
-   TYPOGRAPHY + SPACING + CENTERING
+   TYPOGRAPHY + SPACING
    ========================================================= */
 
 .page__content {
@@ -79,10 +112,10 @@ hr {
 
 
 /* =========================================================
-   ✅ HEADER / NAVIGATION (FINAL CLEAN LAYOUT)
+   HEADER / NAVIGATION (SAFE VERSION)
    ========================================================= */
 
-/* Center entire header block */
+/* Center header container */
 .masthead__inner-wrap {
   max-width: 800px;
   margin-left: auto;
@@ -90,7 +123,7 @@ hr {
   text-align: center;
 }
 
-/* ✅ Make site title centered and look like a heading */
+/* Title styling */
 .site-title {
   display: block;
   font-size: 1.5rem;
@@ -106,48 +139,58 @@ hr {
   text-decoration: none;
 }
 
-/* ✅ Center navigation tabs underneath title */
-.greedy-nav {
-  text-align: center;
-}
-
-.greedy-nav .visible-links {
-  display: inline-block;
-}
-
-/* ✅ Navigation tab styling */
+/* Navigation style ONLY (no layout overrides!) */
 .greedy-nav a {
   color: var(--color-primary) !important;
+  margin: 0 10px;
+}
 
- */
+.greedy-nav a:hover {
+  color: #5f141f !important;
+  text-decoration: underline;
+}
 
-@import
-    "vendor/breakpoint/breakpoint",
+/* Hide dark mode icon safely */
+.dark-mode-toggle {
+  display: none !important;
+}
 
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-    "include/mixins",
-    "vendor/susy/susy",
+/* =========================================================
+   SOFT SECTIONS
+   ========================================================= */
 
-    "layout/reset",
-    "layout/base",
+.section-soft {
+  background-color: var(--color-accent);
+  padding: 2rem;
+  border-radius: 8px;
+}
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
 
-    "layout/forms",
+/* =========================================================
+   TEAM PAGE
+   ========================================================= */
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
+.author__avatar img,
+.archive__item-teaser img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
 
-    "vendor/font-awesome/fontawesome",
+.archive__item {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.archive__item-title {
+  font-weight: 600;
+  margin-top: 0.8rem;
+}
+
+.archive__item-excerpt {
+  font-size: 0.9rem;
+  color: #555;
+}
+``
