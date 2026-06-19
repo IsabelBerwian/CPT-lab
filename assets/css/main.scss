@@ -85,3 +85,86 @@ hr {
 }
 
 
+/* =========================================================
+   TYPOGRAPHY + SPACING + ✅ SAFE CENTERING
+   ========================================================= */
+
+.page__content {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page__content p {
+  margin-bottom: 1.4em;
+  line-height: 1.65;
+}
+
+.page__content h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.page__content h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
+}
+
+
+/* =========================================================
+   NAVIGATION STYLE + ✅ ALIGNMENT
+   ========================================================= */
+
+.masthead__inner-wrap {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.masthead__menu-item a {
+  color: var(--color-primary);
+}
+
+.masthead__menu-item a:hover {
+  color: #5f141f;
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   SOFT SECTIONS
+   ========================================================= */
+
+.section-soft {
+  background-color: var(--color-accent);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+
+/* =========================================================
+   TEAM PAGE POLISH
+   ========================================================= */
+
+.author__avatar img,
+.archive__item-teaser img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.archive__item {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.archive__item-title {
+  font-weight: 600;
+  margin-top: 0.8rem;
+}
+
+.archive__item-excerpt {
+  font-size: 0.9rem;
+  color: #555;
+}
