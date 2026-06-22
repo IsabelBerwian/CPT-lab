@@ -51,22 +51,6 @@ layout: splash
 
 ---
 
-### Tiger Brown (MSc Student)
-
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img src="{{ site.baseurl }}/images/placeholder.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
-
-  <div>
-    <p>
-    Details to be added.
-    </p>
-  </div>
-
-</div>
-
----
-
 ### Guntash Mangat (MSc Student)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
