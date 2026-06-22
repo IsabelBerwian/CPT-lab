@@ -83,6 +83,22 @@ layout: splash
 
 ---
 
+### Rowan (Trainee Clinical Psychologist)
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+
+  <img src="{{ site.baseurl }}/images/R_image.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
+
+  <div>
+    <p>
+    Rowan is a Trainee Clinical Psychologist completing a Doctorate at UCL. Rowan is also interested in pursuing academic research. In the lab, Rowan works on developing interventions and designing a clinical trial for psychological interventions for anxiety.
+    </p>
+  </div>
+
+</div>
+ 
+ ---
+
 ## Affiliated Members
 
 ### Jialing Ding (Research Assistant at Princeton University)
@@ -123,6 +139,7 @@ layout: splash
 
 </div>
 
+---
 
 ## Collaborators
 
@@ -144,7 +161,4 @@ We collaborate with researchers across UCL and a range of international institut
 - Prof. Andrea Reiter (University of Würzburg)  
 - Prof. Ulrike Lüken (Humboldt University Berlin)  
 - Prof. Henrik Walter (Charité Berlin)  
-``
-</div>
 
-</div>
