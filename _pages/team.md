@@ -122,18 +122,35 @@ layout: splash
   </div>
 
 </div>
-
-
 ## Collaborators
+
+We collaborate with researchers across UCL and a range of international institutions. Below is a selection of key collaborators.
+
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
 
 ### UCL Collaborators
 
-- Dr Jane Smith (Research Department of Clinical, Educational and Health Psychology)  
-- Prof John Doe (Institute of Cognitive Neuroscience)  
-- Dr X (Division of Psychiatry)  
+- Prof. Quentin Huys (Division of Psychiatry)  
+- Prof. Liam Mason (Department of Clinical, Educational and Health Psychology)  
+- Dr Tobias Nolte (Department of Clinical, Educational and Health Psychology)  
+- Prof. Oliver Robinson (Institute of Cognitive Neuroscience)  
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 ### International Collaborators
 
-- Dr A (Princeton University)  
-- Prof B (University of Oxford)  
-- Dr C (Max Planck Institute for Human Development)  
+- Prof. Yael Niv (Princeton University)  
+- Prof. Michelle Craske (University of California, Los Angeles)  
+- Prof. Diego Pizzagalli (University of California, Irvine)  
+- Prof. Eva-Lotta Brakemeier (University of Greifswald)  
+- Prof. Andrea Reiter (University of Würzburg)  
+- Prof. Ulrike Lüken (Humboldt University Berlin)  
+- Prof. Henrik Walter (Charité Berlin)  
+
+</div>
+
+</div>
