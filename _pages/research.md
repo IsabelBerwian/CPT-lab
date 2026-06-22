@@ -41,9 +41,9 @@ This project focuses on identifying which individuals benefit from different com
 
 We test the hypothesis that different learning capacities are required for CR and BA and that these capacities can be quantified using computational variables derived from behavioural tasks.
 
-In a completed clinical trial, participants completed questionnaires and behavioural tasks assessing learning processes and were then randomly assigned to either a BA or a CR intervention delivered over five weeks using a self-help tool.
+In a clinical trial that we recently completed, participants undertook questionnaires and behavioural tasks assessing learning processes and were then randomly assigned to either a BA or a CR intervention delivered over five weeks using a self-help tool.
 
-Using cross-validated predictive modelling with separate training and test datasets, we aim to develop models that predict symptom change and differential response to CR versus BA. The goal is to identify task-derived variables that can guide intervention selection at the individual level.
+Combining theory-driven models of learning with cross-validated predictive modelling with separate training and test datasets, we aim to develop models that predict symptom change and differential response to CR versus BA. The goal is to identify task-derived variables that can guide intervention selection at the individual level.
 
 **Relevant publications:**
 - Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026).    *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.*    Frontiers in Psychiatry.    [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1774560/full)
@@ -86,11 +86,11 @@ We examine whether task-derived parameters predict treatment outcomes, how these
 
 This project develops a computational framework to examine mechanisms of psychodynamic change. It focuses on how maladaptive interpersonal expectations, such as anticipating rejection or hostility, arise and how they are modified in therapy.
 
-The approach distinguishes between experiential change (driven by new interpersonal experiences) and reflective change (driven by higher-level belief updating). A computational model formalises these processes and generates predictions that are tested in behavioural experiments.
+The current project focuses on distinguishing between experiential change (driven by new interpersonal experiences) and reflective change (driven by higher-level belief updating). A computational model formalises these processes and generates predictions that are tested in behavioural experiments.
 
-The broader goal is to establish a formal bridge between psychodynamic theory and computational models of learning.
+The broader goal is to establish a formal bridge between psychodynamic theory and computational models of learning, and to ground key psychodynamic concepts such as transference, mentalization, and rupture and repair in a computational framework.
 
-**Relevant publications:**
+**Publications on related topics:**
 
 - Dulburg, Z., Dubey, R., Berwian, IM., & Cohen, J. (2023).  
   *Having multiple selves helps learning agents explore and adapt in complex changing worlds.*  
