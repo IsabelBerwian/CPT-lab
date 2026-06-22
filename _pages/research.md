@@ -15,6 +15,10 @@ We treat psychological interventions as structured inputs that induce learning a
 
 ### Selective Maintenance and Return of Fear
 
+<p style="text-align:center;">
+  <img src="{{ '/images/SM.jpg' | relative_url }}" style="max-width: 400px; height: auto;">
+</p>
+
 This project examines why fear can return after successful exposure therapy. We propose that selective maintenance of aversive memories contributes to this phenomenon and test this hypothesis using a combination of behavioural experiments, computational modelling, neuroimaging, and a clinical trial.
 
 The project consists of three closely linked components. First, a behavioural study tests the proposed mechanism in an experimental setting using a task designed to capture fear learning and extinction. Second, a neuroimaging study focuses on the neural signatures of memory reactivation and maintenance. Third, a clinical trial uses online exposure-based interventions to examine whether targeted modifications can reduce return of fear.
@@ -37,6 +41,10 @@ This work is funded through a [Wellcome Trust Mental Health Award](https://wellc
 
 ### Predicting Response to Behavioural Activation vs Cognitive Restructuring
 
+<p style="text-align:center;">
+  <img src="{{ '/images/BACR.jpg' | relative_url }}" style="max-width: 700px; height: auto;">
+</p>
+
 This project focuses on identifying which individuals benefit from different components of cognitive behavioural therapy. Although cognitive restructuring (CR) and behavioural activation (BA) are widely used interventions, there are currently no evidence-based methods to determine which individuals should receive which component.
 
 We test the hypothesis that different learning capacities are required for CR and BA and that these capacities can be quantified using computational variables derived from behavioural tasks.
@@ -46,7 +54,11 @@ In a clinical trial that we recently completed, participants undertook questionn
 Combining theory-driven models of learning with cross-validated predictive modelling with separate training and test datasets, we aim to develop models that predict symptom change and differential response to CR versus BA. The goal is to identify task-derived variables that can guide intervention selection at the individual level.
 
 **Relevant publications:**
-- Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026).    *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.*    Frontiers in Psychiatry.    [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1774560/full)
+
+- Ding, J., Chiu, J.C., Moon, S., Ren, Y., Turner, D.M., Shoval, G., Niv, Y., & Berwian, IM. (2026).  
+  *Protocol for a randomized trial to predict the efficacy of cognitive and behavioral interventions for symptoms of depression.*  
+  Frontiers in Psychiatry.  
+  [[Paper]](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1774560/full)
 
 - Berwian, IM., Hitchcock, P., Pisupati, S., Schoen, G., & Niv, Y. (2025).  
   *Using computational models of learning to advance cognitive behavioral therapy.*  
@@ -61,6 +73,10 @@ Combining theory-driven models of learning with cross-validated predictive model
 ---
 
 ### Predicting Response Across Interventions for Depression
+
+<p style="text-align:center;">
+  <img src="{{ '/images/prediction.jpg' | relative_url }}" style="max-width: 600px; height: auto;">
+</p>
 
 This project extends the prediction of treatment response across a broader range of interventions for depression, including psychological, pharmacological, and neuromodulatory approaches.
 
@@ -83,6 +99,10 @@ We examine whether task-derived parameters predict treatment outcomes, how these
 ---
 
 ### Psychodynamic Psychotherapy Project
+
+<p style="text-align:center;">
+  <img src="{{ '/images/psychodynamic.jpg' | relative_url }}" style="max-width: 500px; height: auto;">
+</p>
 
 This project develops a computational framework to examine mechanisms of psychodynamic change. It focuses on how maladaptive interpersonal expectations, such as anticipating rejection or hostility, arise and how they are modified in therapy.
 
