@@ -22,10 +22,11 @@ layout: splash
     <p>
     She completed her PhD at the Translational Neuromodeling Unit in Zurich and trained as a psychotherapist in Germany. During her postdoctoral work at Princeton University, she developed her research programme on modelling psychological interventions using computational frameworks.
     </p>
+
+    <a href="https://profiles.ucl.ac.uk/83127-isabel-berwian/about" class="btn" target="_blank">UCL Profile</a>
   </div>
 
 </div>
-
 ---
 
 ## Lab Members
