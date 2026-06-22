@@ -51,6 +51,24 @@ layout: splash
 
 ---
 
+### Tiger Brown (MSc Student)
+
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <img src="{{ site.baseurl }}/images/brown.jpeg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 8px;">
+
+  <div>
+    <p>
+Tiger is currently completing a Master’s in Mental Health Sciences Research. He is working on research to improve treatment for anxiety disorders such as phobias and PTSD. This involves understanding why fear returns after some time and in different contexts. He previously worked in a mental health hospital. 
+
+    </p>
+  </div>
+
+</div>
+
+
+---
+
 ### Guntash Mangat (MSc Student)
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
