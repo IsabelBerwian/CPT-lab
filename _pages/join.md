@@ -21,7 +21,7 @@ We are currently recruiting:
 
 ### PhD and Postdoctoral Applications
 
-We also welcome PhD students and postdoctoral researchers who have already secured funding or have identified a funding source they would like to apply for jointly.
+We also welcome PhD students and postdoctoral researchers who have already secured funding or have identified a funding scheme they are eligible for and would like to apply to jointly. Potential funding sources include UCL PhD programmes, foundations, and international funding schemes.
 
 Potential applicants are encouraged to get in touch early to discuss possible projects and funding opportunities.
 
