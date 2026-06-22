@@ -122,3 +122,18 @@ layout: splash
   </div>
 
 </div>
+
+
+## Collaborators
+
+### UCL Collaborators
+
+- Dr Jane Smith (Research Department of Clinical, Educational and Health Psychology)  
+- Prof John Doe (Institute of Cognitive Neuroscience)  
+- Dr X (Division of Psychiatry)  
+
+### International Collaborators
+
+- Dr A (Princeton University)  
+- Prof B (University of Oxford)  
+- Dr C (Max Planck Institute for Human Development)  
