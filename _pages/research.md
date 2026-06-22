@@ -19,7 +19,7 @@ This project examines why fear can return after successful exposure therapy. We 
 
 The project consists of three closely linked components. First, a behavioural study tests the proposed mechanism in an experimental setting using a task designed to capture fear learning and extinction. Second, a neuroimaging study focuses on the neural signatures of memory reactivation and maintenance. Third, a clinical trial uses online exposure-based interventions to examine whether targeted modifications can reduce return of fear.
 
-This work is funded through a Wellcome Trust Mental Health Award and is conducted in collaboration with Princeton University.
+This work is funded through a [Wellcome Trust Mental Health Award](https://wellcome.org/research-funding/schemes/mental-health-award-understanding-how-anxiety-and-trauma-related-problems) and is conducted in collaboration with Princeton University.
 
 **Relevant publications:**
 
