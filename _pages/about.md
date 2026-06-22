@@ -13,6 +13,8 @@ These are the key questions addressed by the Computational Psychotherapy Lab at 
 
 ## Research
 
+<img src="{{ '/images/researchIllustration.jpeg' | relative_url }}" alt="Research illustration" style="float: right; max-width: 300px; margin-left: 20px; margin-bottom: 10px;" />
+
 To address these questions, we model psychological interventions as processes of learning and memory. We formalise these processes using computational frameworks such as reinforcement learning and Bayesian inference, allowing us to derive precise, testable hypotheses about how interventions operate and how they can be improved. 
 
 We then develop behavioural tasks and computational models that capture learning, memory, and decision-making processes, and apply them in longitudinal clinical intervention studies to evaluate these hypotheses. This approach enables us to identify mechanisms of change and develop predictors of treatment response that can inform the selection of interventions.
