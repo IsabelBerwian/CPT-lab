@@ -21,7 +21,7 @@ We then develop behavioural tasks and computational models that capture learning
 
 Our work spans the full pipeline, from task and model development to clinical trials. In the long term, we aim to establish a mechanistic, learning-based framework for understanding how interventions produce lasting change and how they can be optimally combined and sequenced.
 
-Learn more about our research:
+Learn more about our
 <a href="{{ '/research/' | relative_url }}" class="btn">Research</a>
 
 ---
