@@ -23,7 +23,9 @@ We are currently recruiting:
 
 We also welcome PhD students and postdoctoral researchers who have already secured funding or have identified a funding scheme they are eligible for and would like to apply to jointly. Potential funding sources include UCL PhD programmes, foundations, and international funding schemes.
 
-Potential applicants are encouraged to get in touch early to discuss possible projects and funding opportunities.
+Potential applicants are encouraged to get in touch early to discuss possible projects and funding opportunities. Please email a short description of your interests, project idea and CV to:
+
+**i.berwian [@] ucl.ac.uk**
 
 ---
 
@@ -58,10 +60,4 @@ We provide:
 - collaborations with international research groups  
 - a supportive and collaborative research environment  
 
----
 
-## How to Apply
-
-Please email a short description of your interests, CV, and (if applicable) transcripts to:
-
-**i.berwian [@] ucl.ac.uk**
