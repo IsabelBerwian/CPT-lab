@@ -30,8 +30,9 @@ Learn more about our
 
 **Interested in joining the lab?**
 
-<a href="{{ '/join/' | relative_url }}" class="btn">Join our lab</a>
+We are currently recruiting a research assistant and a postdoctoral research fellow. Find out more about these positions and other ways to join the lab.
 
+<a href="{{ '/join/' | relative_url }}" class="btn">Join our lab</a>
 ---
 
 ## Affiliations
