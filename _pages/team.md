@@ -122,13 +122,11 @@ layout: splash
   </div>
 
 </div>
+
+
 ## Collaborators
 
 We collaborate with researchers across UCL and a range of international institutions. Below is a selection of key collaborators.
-
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 250px;">
 
 ### UCL Collaborators
 
@@ -136,10 +134,6 @@ We collaborate with researchers across UCL and a range of international institut
 - Prof. Liam Mason (Department of Clinical, Educational and Health Psychology)  
 - Dr Tobias Nolte (Department of Clinical, Educational and Health Psychology)  
 - Prof. Oliver Robinson (Institute of Cognitive Neuroscience)  
-
-</div>
-
-<div style="flex: 1; min-width: 250px;">
 
 ### International Collaborators
 
@@ -150,7 +144,7 @@ We collaborate with researchers across UCL and a range of international institut
 - Prof. Andrea Reiter (University of Würzburg)  
 - Prof. Ulrike Lüken (Humboldt University Berlin)  
 - Prof. Henrik Walter (Charité Berlin)  
-
+``
 </div>
 
 </div>
