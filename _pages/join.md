@@ -14,8 +14,9 @@ We are interested in working with motivated students and researchers who want to
 ### Current Openings
 
 We are currently recruiting:
-- a postdoctoral researcher  
-- a research assistant  
+We are currently recruiting:
+- [a postdoctoral researcher](https://www.jobs.ac.uk/job/DSA339/research-fellow-in-computational-psychiatry)  
+- [a research assistant](https://www.jobs.ac.uk/job/DSA355/research-assistant-in-computational-psychiatry)  
 
 ---
 
